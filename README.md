@@ -2,18 +2,6 @@
 
 This repository contains the source code for the paper *["Semi-Supervised Graph Contrastive Learning with Virtual Adversarial Augmentation"](https://www.computer.org/csdl/journal/tk/5555/01/10438042/1UyVbVTbrm8)*.
 
-## Table of Contents
-- [SemiGraL: Semi-Supervised Graph Contrastive Learning with Virtual Adversarial Augmentation](#semigral-semi-supervised-graph-contrastive-learning-with-virtual-adversarial-augmentation)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [Requirements](#requirements)
-    - [Environment](#environment)
-    - [Dependencies](#dependencies)
-  - [Datasets](#datasets)
-  - [Running the Code](#running-the-code)
-  - [Citing SemiGraL](#citing-semigral)
-  - [License](#license)
-
 ## Introduction
 SemiGraL is a novel approach to semi-supervised graph deep learning, enhanced with virtual adversarial augmentation techniques. This repository provides the code to reproduce the experiments described in the paper.
 
@@ -59,6 +47,7 @@ If you find this work helpful, please consider citing our paper:
 ```bibtex
 @article{dong2024semi,
   title={Semi-Supervised Graph Contrastive Learning with Virtual Adversarial Augmentation},
+  author={Dong, Yixiang and Luo, Minnan and Li, Jundong and Liu, Ziqi and Zheng, Qinghua},
   journal={IEEE Transactions on Knowledge \& Data Engineering},
   number={01},
   pages={1--12},
